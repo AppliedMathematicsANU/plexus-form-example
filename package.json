@@ -1,0 +1,35 @@
+{
+  "name": "plexus-form-example",
+  "version": "0.1.0",
+  "description": "A demo app for plexus-form.",
+  "keywords": [
+    "JSON-Schema",
+    "react",
+    "react-component",
+    "form"
+  ],
+  "homepage": "https://github.com/AppliedMathematicsANU/plexus-form-example",
+  "bugs": {
+    "url": "https://github.com/AppliedMathematicsANU/plexus-form-example/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Olaf Delgado-Friedrichs",
+    "email": "olaf.delgado@gmail.com"
+  },
+  "dependencies": {
+    "react": "~0.12.2",
+    "plexus-objective": "~0.0.1",
+    "plexus-form": "~0.1.0",
+    "plexus-validate": "~0.0.4"
+  },
+  "devDependencies": {
+    "babel-core": "^4.4.5",
+    "babel-loader": "^4.0.0",
+    "webpack": "^1.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AppliedMathematicsANU/plexus-form-example.git"
+  }
+}
