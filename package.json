@@ -18,10 +18,10 @@
     "email": "olaf.delgado@gmail.com"
   },
   "dependencies": {
-    "react": "~0.12.2",
+    "plexus-form": "^0.1.1",
     "plexus-objective": "~0.0.1",
-    "plexus-form": "~0.1.0",
-    "plexus-validate": "~0.0.4"
+    "plexus-validate": "~0.0.4",
+    "react": "~0.12.2"
   },
   "devDependencies": {
     "babel-core": "^4.4.5",
