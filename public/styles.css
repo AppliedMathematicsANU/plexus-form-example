@@ -9,6 +9,11 @@ html {
     font-family: arial, sans-serif;
 }
 
+input, select, button {
+    font-family: arial, sans-serif;
+    font-size: 100%;
+}
+
 .flexContainer {
   padding: 0;
   margin: 0;
